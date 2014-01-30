@@ -115,7 +115,7 @@ void printProgramInfoLog(GLuint obj)
 
 
 const char vert[] = "minimal.vert";
-const char frag[] = "minimal.frag";
+const char frag[] = "minres.frag";
 void setShaders() {
 
 	char *vs = NULL,*fs = NULL,*fs2 = NULL;
